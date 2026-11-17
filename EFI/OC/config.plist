@@ -1013,7 +1013,7 @@
 				<key>BundlePath</key>
 				<string>CPUFriend.kext</string>
 				<key>Comment</key>
-				<string>CPUFriend.kext</string>
+				<string>CPUFriend.kext - only enable together with a provider made for THIS cpu</string>
 				<key>Enabled</key>
 				<false/>
 				<key>ExecutablePath</key>
@@ -1031,7 +1031,7 @@
 				<key>BundlePath</key>
 				<string>CPUFriendDataProvider.kext</string>
 				<key>Comment</key>
-				<string>CPUFriendDataProvider.kext</string>
+				<string>i7-8665U data - do NOT enable on an i5-8265U, generate your own with CPUFriendFriend</string>
 				<key>Enabled</key>
 				<false/>
 				<key>ExecutablePath</key>
