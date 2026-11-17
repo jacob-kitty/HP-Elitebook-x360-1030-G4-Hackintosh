@@ -2213,7 +2213,7 @@
 				<key>Auxiliary</key>
 				<true/>
 				<key>Comment</key>
-				<string>VerifyMsrE2.efi</string>
+				<string>ControlMsrE2.efi</string>
 				<key>Enabled</key>
 				<false/>
 				<key>Flavour</key>
@@ -2221,9 +2221,9 @@
 				<key>FullNvramAccess</key>
 				<false/>
 				<key>Name</key>
-				<string>VerifyMsrE2.efi</string>
+				<string>ControlMsrE2.efi</string>
 				<key>Path</key>
-				<string>VerifyMsrE2.efi</string>
+				<string>ControlMsrE2.efi</string>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
